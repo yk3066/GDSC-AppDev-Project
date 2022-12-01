@@ -1,0 +1,4 @@
+#Wed Nov 16 01:32:23 IST 2022
+base.0=D\:\\Flutter Projects\\Github\\Lemonade\\lemon\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
