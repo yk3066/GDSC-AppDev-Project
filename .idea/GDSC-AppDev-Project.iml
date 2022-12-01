@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/First Task/Karthik Avinash/music_player/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/First Task/Karthik Avinash/music_player/build" />
+      <excludeFolder url="file://$MODULE_DIR$/First Task/Karthik Avinash/music_player/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/First Task/Palash Bhasme/music_player/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/First Task/Palash Bhasme/music_player/build" />
+      <excludeFolder url="file://$MODULE_DIR$/First Task/Palash Bhasme/music_player/.dart_tool" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
